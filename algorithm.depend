@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1354880204 source:f:\temp\algorithm\manli.cpp
+	<iostream>
+	<sstream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<cmath>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<map>
+	<set>
+	<algorithm>
+	<ctime>
+
